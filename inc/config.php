@@ -21,8 +21,8 @@ $sumber = "http://192.168.1.100/sisfokol_presensiqrcode/";
 //KONEKSI DATABASE //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 $xhostname = "localhost";
 $xdatabase = "sisfokol_presensiqrcode"; //sesuaikan dengan nama database yang dibikin
-$xusername = "biasawae"; //sesuaikan dengan username mysql-server yang ada
-$xpassword = "biasawae"; //sesuaikan dengan password user mysql-server yang ada
+$xusername = "root"; //sesuaikan dengan username mysql-server yang ada
+$xpassword = ""; //sesuaikan dengan password user mysql-server yang ada
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
